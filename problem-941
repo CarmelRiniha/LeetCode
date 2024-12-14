@@ -1,0 +1,23 @@
+//941-valid mountain array
+
+class Solution {
+    public boolean validMountainArray(int[] arr) {
+        int n = arr.length;
+        if (n < 3) {
+            return false;//mountain should have one start , 1 end and 1 peak
+        }  
+        int i = 0;
+        while (n>i+1 && arr[i] < arr[i + 1]) {//first ele<sec ele - mountain goes higher
+            i++;
+        }
+    if (i == 0 || i == n - 1) {//start and end cant be a peak
+            return false;
+        }
+        
+        
+        while (i + 1 < n && arr[i] > arr[i + 1]) {//fir ele>sec ele-mountain lowers
+            i++;
+        }  
+        return i == n - 1;//if its last el then its a mountain
+    }  
+    }
