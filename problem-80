@@ -1,0 +1,48 @@
+remove duplicates from sorted array - unique elements can appear atmost twice
+
+import java.util.Scanner;
+
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        if (nums.length <= 2) return nums.length; // If the array has 2 or fewer elements, return its length.
+
+        int j = 2; // Pointer where the next valid element should be placed.
+
+        for (int i = 2; i < nums.length; i++) {
+            if (nums[i] != nums[j - 2]) { // Check if we can place the current element
+                nums[j] = nums[i];
+                j++; // Move the pointer forward
+            }
+        }
+        return j; // 'j' represents the length of the modified array
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Taking input from user
+        System.out.print("Enter the number of elements: ");
+        int n = scanner.nextInt();
+        int[] nums = new int[n];
+
+        System.out.println("Enter the sorted array elements:");
+        for (int i = 0; i < n; i++) {
+            nums[i] = scanner.nextInt();
+        }
+
+        // Calling the removeDuplicates function
+        Solution solution = new Solution();
+        int k = solution.removeDuplicates(nums);
+
+        // Printing the results
+        System.out.println("New length: " + k);
+        System.out.print("Modified array: ");
+        for (int i = 0; i < k; i++) {
+            System.out.print(nums[i] + " ");
+        }
+
+        scanner.close();
+    }
+}
