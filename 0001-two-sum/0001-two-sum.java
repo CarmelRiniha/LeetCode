@@ -29,6 +29,6 @@ class Solution {
         } else {
             System.out.println("No solution found.");
         }
-        scanner.close();
+      
     }
 }
