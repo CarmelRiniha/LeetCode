@@ -1,6 +1,6 @@
 
 class Solution {
-    public boolean isPalindrome(int x) {
+    public static boolean isPalindrome(int x) {
         if (x < 0) {
             return false;  
         }
@@ -16,8 +16,7 @@ class Solution {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x = scanner.nextInt();
-        Solution solution = new Solution();
-        boolean result = solution.isPalindrome(x);
+        boolean result = isPalindrome(x);
         System.out.println(result);
     }
 }
