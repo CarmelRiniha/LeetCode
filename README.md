@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CarmelRiniha/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/CarmelRiniha/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CarmelRiniha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CarmelRiniha/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CarmelRiniha/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
