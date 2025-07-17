@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CarmelRiniha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CarmelRiniha/LeetCode/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CarmelRiniha/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CarmelRiniha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CarmelRiniha/LeetCode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CarmelRiniha/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CarmelRiniha/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
