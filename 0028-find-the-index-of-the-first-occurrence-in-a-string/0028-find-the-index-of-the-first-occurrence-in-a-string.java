@@ -4,7 +4,6 @@ class Solution {
         if (needle.length() == 0){
             return 0;
         } 
-
         char[] hArr = haystack.toCharArray();
         char[] nArr = needle.toCharArray();
 
