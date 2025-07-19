@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/CarmelRiniha/LeetCode/tree/master/0136-single-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CarmelRiniha/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CarmelRiniha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1603-running-sum-of-1d-array](https://github.com/CarmelRiniha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CarmelRiniha/LeetCode/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/CarmelRiniha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
