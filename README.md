@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/CarmelRiniha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [2041-the-latest-login-in-2020](https://github.com/CarmelRiniha/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
