@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/CarmelRiniha/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/CarmelRiniha/LeetCode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CarmelRiniha/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0932-monotonic-array](https://github.com/CarmelRiniha/LeetCode/tree/master/0932-monotonic-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CarmelRiniha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/CarmelRiniha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
