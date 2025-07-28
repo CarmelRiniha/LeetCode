@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CarmelRiniha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/CarmelRiniha/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/CarmelRiniha/LeetCode/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/CarmelRiniha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CarmelRiniha/LeetCode/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/CarmelRiniha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
