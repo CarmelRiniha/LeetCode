@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/CarmelRiniha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CarmelRiniha/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/CarmelRiniha/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CarmelRiniha/LeetCode/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CarmelRiniha/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CarmelRiniha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CarmelRiniha/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/CarmelRiniha/LeetCode/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CarmelRiniha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CarmelRiniha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CarmelRiniha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/CarmelRiniha/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/CarmelRiniha/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/CarmelRiniha/LeetCode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/CarmelRiniha/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/CarmelRiniha/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/CarmelRiniha/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
